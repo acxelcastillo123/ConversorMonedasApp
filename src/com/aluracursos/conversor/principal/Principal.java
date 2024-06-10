@@ -26,7 +26,7 @@ public class Principal {
                 4) Real brasileño =>> Dòlar
                 5) Dòlar =>> Peso colombiano
                 6) Peso colombiano =>> Dòlar
-                7) Salir
+                7) Salir.
                 ELija una opciòn vàlida:
                 ****************************************************************
                 """;
